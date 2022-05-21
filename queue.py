@@ -18,4 +18,6 @@
 class Queue:
     def __init(self):
         self.queue = []
+
+    # Add an element
         
