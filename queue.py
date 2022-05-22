@@ -20,4 +20,4 @@ class Queue:
         self.queue = []
 
     # Add an element
-        
+    def
